@@ -1,5 +1,5 @@
 SDL_gpu, a library for making hardware-accelerated 2D graphics easy.
-by Jonathan Dearborn
+by Jonathan Dearborn 
 
 [![Travis-ci Status](https://travis-ci.org/grimfang4/sdl-gpu.svg?branch=master)](https://travis-ci.org/grimfang4/sdl-gpu)
 [![Appveyor Status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/project/grimfang4/sdl-gpu)
